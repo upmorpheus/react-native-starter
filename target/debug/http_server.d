@@ -1,0 +1,1 @@
+/home/nick/Documents/Rust/http_server/target/debug/http_server: /home/nick/Documents/Rust/http_server/src/http/method.rs /home/nick/Documents/Rust/http_server/src/http/mod.rs /home/nick/Documents/Rust/http_server/src/http/request.rs /home/nick/Documents/Rust/http_server/src/main.rs /home/nick/Documents/Rust/http_server/src/server.rs
